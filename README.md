@@ -1,8 +1,10 @@
 # MegaCrusher
 
-A distortion/saturation VST3 plugin built with [JUCE](https://juce.com/), featuring a hell-themed animated UI with three distortion modes, bit-crusher, tone control, and real-time visualisation.
+A distortion/saturation VST3 plugin built with [JUCE](https://juce.com/), featuring an animated UI with three distortion modes, bit-crusher, tone control, and real-time visualisation.
 
-![MegaCrusher UI](assets/screenshot.png)
+
+https://github.com/user-attachments/assets/27517be3-c34e-460d-bd1e-39e22bc943ed
+
 
 ---
 
