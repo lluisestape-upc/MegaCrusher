@@ -78,7 +78,9 @@ MegaCrusher/
 
 ## License
 
-[MIT](LICENSE) -- Copyright 2026 Lluis Estape
+[GPL v3](LICENSE) -- Copyright 2026 Lluis Estape
+
+This plugin links the JUCE modules (AGPLv3) and the VST3 SDK under its GPLv3 option.
 
 ---
 
